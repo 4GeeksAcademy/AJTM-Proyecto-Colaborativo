@@ -1,3 +1,10 @@
+# Colaboradores y responsabilidades
+Miguel - Navbar, Tagline
+Armin - Heading, services
+Luis - Portfolio
+Tomy - Contact
+
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in Git while developing a typical website.

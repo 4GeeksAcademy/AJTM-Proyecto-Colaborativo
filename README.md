@@ -1,11 +1,11 @@
 # Colaboradores y responsabilidades
-Miguel - Navbar, Tagline.
+Miguel Uranga - Navbar, Tagline.
 
-Armin - Heading, services.
+Armin Peréz - Heading, services.
 
-Luis - Portfolio.
+Luis Galvan - Portfolio.
 
-Tomy - Contact.
+Tomy Díaz - Contact.
 
 
 # Making a website as a team (Git collaboration)
